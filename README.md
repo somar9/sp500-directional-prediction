@@ -24,6 +24,8 @@ The findings highlights the challenges of extracting strong predictive signals f
 - Performance across volatility regimes
 - Confusion Matrix and directional precision
 
+![Dashboard](dashboard.png)
+
 ## Limitations 
 - No meaningful improvement over baseline
 - Weak predictive signal
